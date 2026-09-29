@@ -1,24 +1,24 @@
 
 @font-face {
     font-family: LibreBaskerville;
-    src: url("https://smutbean.github.io/elgranheroe/fonts/LibreBaskerville-VariableFont_wght.ttf") format("truetype");
+    src: url("http://elgranheroe.com/fonts/LibreBaskerville-VariableFont_wght.ttf") format("truetype");
     font-style: normal;
     font-weight: 100 700;
 }
 @font-face {
     font-family: LibreBaskerville;
-    src: url("https://smutbean.github.io/elgranheroe/fonts/LibreBaskerville-Italic-VariableFont_wght.ttf") format("truetype");
+    src: url("http://elgranheroe.com/fonts/LibreBaskerville-Italic-VariableFont_wght.ttf") format("truetype");
     font-style: italic;
 }
 @font-face {
     font-family: PirataOne;
-    src: url("https://smutbean.github.io/elgranheroe/fonts/PirataOne-Regular.ttf") format("truetype");
+    src: url("http://elgranheroe.com/fonts/PirataOne-Regular.ttf") format("truetype");
     font-style: normal;
 }
 
 .fondomain
 {
-    background-image: url(https://smutbean.github.io/elgranheroe/img/fondopuertaroja.jpg);
+    background-image: url(http://elgranheroe.com/img/fondopuertaroja.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
